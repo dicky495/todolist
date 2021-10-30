@@ -2,7 +2,7 @@
     <div class="row">
         <div align="center">
             <h1><b>TODO LIST PDAM</b></h1>
-            <p>Daftar Pekerjaan </p>
+            <p>DAFTAR CHECK LIST PEKERJAAN</p>
         </div>
     </div>
 </div>
